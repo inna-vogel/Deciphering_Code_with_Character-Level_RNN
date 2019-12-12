@@ -1,2 +1,3 @@
 # Deciphering Code with Character-Level RNN
-In this notebook, an RNN is builed and trained to decipher strings encrypted with a certain cipher.
+
+In this notebook, we'll look at how to build a recurrent neural network and train it to decipher strings encrypted with a certain cipher.
